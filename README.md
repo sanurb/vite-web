@@ -47,7 +47,7 @@
 - **StyleLint:** Integrated with `stylelint-config-manzdev` for CSS linting.
 - **GitHub Pages:** Ready setup for deployment to `gh-pages` for easy preview and deployment.
 
-### Folder Structure
+### 📂 Folder Structure
 
 ```plaintext
 ├── jsconfig.json
@@ -68,12 +68,12 @@
 
 Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-## Setup
+## 💻 Setup
 
 Clone this repository and navigate into the project folder:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sanurb/vite-web
 cd vite-project-template
 ```
 
@@ -91,7 +91,7 @@ Start the development server:
 npm run dev
 ```
 
-Open `http://localhost:3000` in your browser to see your application in action.
+Open `http://localhost:5173` in your browser to see your application in action.
 
 ### Build
 
